@@ -5,7 +5,7 @@
     <groupId>pl.ninecube.slicer</groupId>
     <artifactId>slicer</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <name>Slicer</name>
     <licenses>
@@ -75,7 +75,7 @@
         <connection>scm:git:git://github.com/NineCube-DP/slicer.git</connection>
         <developerConnection>scm:git:git@github.com:NineCube-DP/slicer.git</developerConnection>
         <url>https://github.com/NineCube-DP/slicer</url>
-        <tag>slicer-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
